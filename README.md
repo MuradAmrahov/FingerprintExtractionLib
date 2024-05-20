@@ -11,5 +11,7 @@ Bu layihə `opencv`, `fingerprint_feature_extractor` və `fingerprint_enhancer` 
 
 
 **Görüntünün Oxunması:** Görüntü OpenCV-nin cv2.imread funksiyası ilə grayscale rejimində oxunur.
+
 **Görüntünün Təkmilləşdirilməsi: **fingerprint_enhancer kitabxanasının enhance_Fingerprint funksiyası ilə barmaq izi görüntüsü təkmilləşdirilir.
+
 **Xırdalıqların Çıxarılması:** fingerprint_feature_extractor kitabxanasının extract_minutiae_features funksiyası ilə təkmilləşdirilmiş görüntüdən minutia xüsusiyyətləri çıxarılır. spuriousMinutiaeThresh, invertImage, showResult və saveResult kimi parametrlər müəyyən edilir.
