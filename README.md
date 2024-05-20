@@ -1,4 +1,5 @@
 Bu layihə `opencv`, `fingerprint_feature_extractor` və `fingerprint_enhancer` kitabxanalarından istifadə edərək barmaq izi görüntüsünün təkmilləşdirilməsi və xırdalıqların çıxarılması prosesini nümayiş etdirir.
+
 **Layihədə əsas addımlar:**
   1. Barmaq izi görüntüsünü oxumaq.
   2. Xüsusiyyətlərin daha yaxşı çıxarılması üçün barmaq izi görüntüsünü təkmilləşdirmək.
